@@ -1,5 +1,7 @@
-# -docker-kali-tools-passwords-githubactions-
-kali-tools-passwords: Helpful for password cracking attacks – Online &amp; offline
+# docker-kali-tools-passwords-githubactions
+
+[![kali-tools-passwords CI workflow](https://github.com/githubfoam/docker-kali-tools-passwords-githubactions/actions/workflows/kali-tools-database-workflow.yml/badge.svg?branch=main)](https://github.com/githubfoam/docker-kali-tools-passwords-githubactions/actions/workflows/kali-tools-database-workflow.yml)
+
 ~~~
 https://www.kali.org/blog/kali-linux-metapackages/
 https://www.kali.org/docs/general-use/metapackages/
